@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  chy-v3:
+  - created: 2018-11-29T15:43:52.203734011+08:00
+    description: chehuoyi-v3
+    digest: 946844cef7cb7b328b1dd3a5b2fac63d63b96fb5d745b6d732c98505a31761e7
+    name: chy-v3
+    urls:
+    - chy-v3-1.tgz
+    version: "1"
+generated: 2018-11-29T15:43:52.203175243+08:00
